@@ -23,7 +23,7 @@ https://github.com/luismendes070/javascript-projects
 
 https://github.com/luismendes070/demos-herokuapp
 
-https://github.com/luismendes070/curriculo
+demo w3css GitHub Pages https://github.com/luismendes070/curriculo
 
 https://github.com/luismendes070/java-projects
 
