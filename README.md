@@ -30,6 +30,7 @@ https://github.com/luismendes070/demos-herokuapp
 
 demo w3css GitHub Pages https://github.com/luismendes070/curriculo
 
+Java REST APIs
 https://github.com/luismendes070/java-projects
 
 QA 
