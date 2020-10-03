@@ -19,8 +19,13 @@ https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
 https://github.com/luismendes070/react-native-android-projects
 
-https://github.com/luismendes070/javascript-projects
+Frontend JavaScript https://github.com/luismendes070/javascript-projects
 
+Backend JavaScript https://github.com/luismendes070/javascript-projects
+
+Mobile JavaScript https://github.com/luismendes070/javascript-projects
+
+Live demos APIs, databases
 https://github.com/luismendes070/demos-herokuapp
 
 demo w3css GitHub Pages https://github.com/luismendes070/curriculo
