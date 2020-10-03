@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Linkedin in English
 https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
+React Native Projects
 https://github.com/luismendes070/react-native-android-projects
 
 Native Android Java Archive
