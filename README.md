@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Linkedin in English
+https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
+
 https://github.com/luismendes070/react-native-android-projects
 
 https://github.com/luismendes070/javascript-projects
