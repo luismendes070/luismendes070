@@ -32,4 +32,5 @@ demo w3css GitHub Pages https://github.com/luismendes070/curriculo
 
 https://github.com/luismendes070/java-projects
 
+QA 
 https://github.com/luismendes070/react-selenium-localhost
