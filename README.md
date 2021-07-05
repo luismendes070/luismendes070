@@ -37,7 +37,7 @@ demo w3css GitHub Pages https://github.com/luismendes070/curriculo
 Java REST APIs
 https://github.com/luismendes070/java-projects
 
-QA 
+QA Tester
 https://github.com/luismendes070/react-selenium-localhost
 
 Blog WordPress
