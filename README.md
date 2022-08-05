@@ -19,6 +19,7 @@ https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
 <a href="https://github.com/luismendes070?tab=repositories&q=dio-bootcamp&type=&language=&sort=">DIO bootcamps</a>
 
+<a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura </a>
 
 React Native Projects
 https://github.com/luismendes070/react-native-android-projects
