@@ -50,6 +50,7 @@ Blog WordPress
 https://luismendesmachadoblog.wordpress.com/
 
 <label lang="pt-BR">
+  <a href="https://blog.heroku.com/next-chapter"> Salesforce Heroku PAAS Next Chapter</a>
   <a href="https://github.com/luismendes070/salesforce">Desenvolvedor Salesforce Herokuapp https://github.com/luismendes070/salesforce</a>
   <label>
 
