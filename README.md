@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Linkedin in English
 https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
+<a href="https://www.efset.org/cert/gGdEkx">English Level B2 EFSET 2016</a>
+
 <a href="https://github.com/luismendes070/luismendes070/blob/main/Certificate.pdf">CertiProf Scrum SFPC Certificate ID 78275619</a>
 
 <a href="https://github.com/luismendes070?tab=repositories&q=dio-bootcamp&type=&language=&sort=">DIO Bootcamps Scholarships 2021-2022</a>
