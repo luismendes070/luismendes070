@@ -25,7 +25,8 @@ https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
 <a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura </a>
 
-React Native Projects
+React Native Projects with CSS and fonts
+
 https://github.com/luismendes070/react-native-android-projects
 
 Native Android Java Archive
