@@ -25,9 +25,7 @@ https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
 <a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura </a>
 
-React Native Projects with CSS and fonts
-
-https://github.com/luismendes070/react-native-android-projects
+<a href="https://github.com/luismendes070/react-native-android-projects">React Native Projects with CSS and Vector Icons fonts library</a>
 
 Native Android Java Archive
 https://github.com/luismendes070/selfie-monster-beta
