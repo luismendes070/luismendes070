@@ -18,7 +18,8 @@ Linkedin in English
 https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
 <p lang="pt-BR">
- <a href="https://github.com/luismendes070/ingles">Inglês avançado</a>
+ <a href="https://github.com/luismendes070/ingles">Inglês avançado Bettha.com
+Startup do Grupo Cia de Talentos</a>
 </p>
 
 <a href="https://www.efset.org/cert/9SJZ1J">English Level B2 EFSET 2022</a>
