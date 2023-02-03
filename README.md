@@ -48,7 +48,7 @@ Mobile JavaScript https://github.com/luismendes070/javascript-projects
 Live demos APIs, databases
 https://github.com/luismendes070/demos-herokuapp
 
-demo w3css GitHub Pages https://github.com/luismendes070/curriculo
+demo w3css GitHub Pages https://luismendes070.github.io/curriculo/
 
 Java REST APIs
 https://github.com/luismendes070/java-projects
