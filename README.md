@@ -28,7 +28,7 @@ Startup do Grupo Cia de Talentos</a>
 
 <a href="https://github.com/luismendes070/luismendes070/blob/main/Certificate.pdf">CertiProf Scrum SFPC Certificate ID 78275619</a>
 
-<a href="https://github.com/luismendes070?tab=repositories&q=dio-bootcamp&type=&language=&sort=">DIO Bootcamps Scholarships 2021-2022</a>
+<a href="https://github.com/luismendes070?tab=repositories&q=dio-bootcamp&type=&language=&sort=">DIO Bootcamps Scholarships 2021-2023</a>
 
 <a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura </a>
 
