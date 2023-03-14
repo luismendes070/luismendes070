@@ -30,7 +30,7 @@ Startup do Grupo Cia de Talentos</a>
 
 <a href="https://github.com/luismendes070?tab=repositories&q=dio-bootcamp&type=&language=&sort=">DIO Bootcamps Scholarships 2021-2023</a>
 
-<a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura </a>
+<a href="https://github.com/luismendes070?tab=repositories&q=alura&type=&language=&sort="> Alura Imersion Data Extractor</a>
 
 <a href="https://github.com/luismendes070/react-native-android-projects">React Native Projects with CSS and Vector Icons fonts library</a>
 
