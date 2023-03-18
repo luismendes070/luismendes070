@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Linkedin in English
 https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
 
+<a href="https://github.com/luismendes070/ingles/blob/main/Certificates.pdf">C2 Level English Live Santander Scholarship 2023</a>
+
 <p lang="pt-BR">
  <a href="https://github.com/luismendes070/ingles">Inglês avançado Bettha.com
 Startup do Grupo Cia de Talentos</a>
