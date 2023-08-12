@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Linkedin in English
-https://www.linkedin.com/in/luismendesmachado1/?locale=en_US
+
+<a href="https://www.linkedin.com/in/luismendesmachado1/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin in English </a>
 
 <a href="https://github.com/luismendes070/ingles/blob/main/Certificates.pdf">C2 Level English Live Santander Scholarship 2023</a>
 
